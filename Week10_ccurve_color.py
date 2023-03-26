@@ -47,6 +47,4 @@ def main():
 if __name__ == "__main__":
    main()
 
-# t.pencolor(random.randint(1, 255),
-#random.randint(1, 255),
-#random.randint(1, 255)
+
